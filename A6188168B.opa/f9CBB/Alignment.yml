@@ -1,0 +1,19 @@
+segment_sources:
+  IC149DD17:
+    type: origin_type
+    relation: translation
+    language: en
+  I53CF3584:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a84c3219fef14fc1a1556485b9a02190:
+    IC149DD17: 272df63d0c11420081a855ee7c4880be
+    I53CF3584: 16200c12220646eea8089bb6bff5e89a
+  944a93fcf413424d818837dbba2f3b32:
+    IC149DD17: b8036913b52240308624542211ce303b
+    I53CF3584: 849a7a37cf3f4ae7909a69164b2e2a7a
+  d2c9b2b5bd20410fa8b021cae149eee5:
+    IC149DD17: e1b365d4a754474f83f1c354963b5c2c
+    I53CF3584: 54f9f3b9d2e44a159a63b434ca27573a
